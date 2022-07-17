@@ -18,7 +18,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
         System.out.print("Yıl Giriniz :");
         year = inp.nextInt();
 
-        if (year / 4 == 0 || year / 400 == 0) {
+        if (year % 4 == 0 || year % 400 == 0) {
             System.out.println( year + "   Bir artık yıldır   ");
         }else {
             System.out.println(year + "  Bir artık yıl değildir  ");
