@@ -28,5 +28,5 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
     
     
     
- ![image](https://user-images.githubusercontent.com/107626332/179396779-e9814d04-4032-42c5-9d04-a3ac885dd50d.png)
+ ![image](https://user-images.githubusercontent.com/107626332/179397023-f96a5910-df51-460b-9dd2-cbe8a588f1ab.png)
 
